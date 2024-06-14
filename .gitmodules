@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "pci"]
+	path = pci
+	url = https://github.com/samsemegne/pci
 [submodule "vek"]
 	path = vek
 	url = https://github.com/samsemegne/vek
